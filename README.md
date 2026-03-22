@@ -1,21 +1,24 @@
-# Pockit — ML-Powered Personal Finance Tracker
+#  Pockit — ML-Powered Personal Finance Tracker
 
 A smart finance tracking web app that automatically extracts, categorizes, and analyzes your spending from bank statements using Machine Learning.
 
+---
 
-## Features
+##  Features
 
 | Feature | Description |
+|---|---|
 |  Bank Statement Import | Upload PDF or Excel statements — transactions auto-extracted |
-| Auto Categorization | Random Forest + keyword matching classifies Food, Transport, Shopping, Rent and more |
-| Broke Day Predictor | Predicts which day of the month you'll run out of money |
-| Impulse Buy Detector | Flags late-night and unplanned purchases |
-| Spending Personality | Labels your spending style — Foodie, Impulsive, Balanced, Social Spender |
-| Subscription Graveyard | Surfaces forgotten recurring charges |
-| Manual Category Fix | Fix unknown UPI merchants with one click — system learns permanently |
-| Interactive Dashboard | Donut chart, monthly trend line, category breakdown bars |
-| Monthly Roast | Honest (slightly brutal) summary of your spending habits |
-| Future You Warning | Projects your spending 6 and 12 months ahead |
+|  Auto Categorization | Random Forest + keyword matching classifies Food, Transport, Shopping, Rent and more |
+|  Broke Day Predictor | Predicts which day of the month you'll run out of money |
+|  Impulse Buy Detector | Flags late-night and unplanned purchases |
+|  Spending Personality | Labels your spending style — Foodie, Impulsive, Balanced, Social Spender |
+|  Subscription Graveyard | Surfaces forgotten recurring charges |
+|  Manual Category Fix | Fix unknown UPI merchants with one click — system learns permanently |
+|  Interactive Dashboard | Donut chart, monthly trend line, category breakdown bars |
+|  Monthly Roast | Honest (slightly brutal) summary of your spending habits |
+|  Future You Warning | Projects your spending 6 and 12 months ahead |
+
 
 ---
 
